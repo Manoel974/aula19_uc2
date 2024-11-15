@@ -1,0 +1,1 @@
+array_recup_veiculo = np.array(df_recup_veiculo
